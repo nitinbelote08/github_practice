@@ -1,2 +1,2 @@
  this is 1st record updated from local 
-
+update from remote need to test conflicts comamands
